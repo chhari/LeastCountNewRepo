@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/QGamesLogoScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LobbyScreen.unity
+    guid: c6cf19e5119021d458cdc26ba113139b
+  - enabled: 1
+    path: Assets/Scenes/CreateRoomScreen.unity
+    guid: aef4cc4160ca8e84f9c01cc87bb1d8aa
+  - enabled: 1
+    path: Assets/Scenes/JoinFriendsScreen.unity
+    guid: 793f5d945817d854cb5af9315f3d07d5
+  - enabled: 1
+    path: Assets/Scenes/MultiGameScreen.unity
+    guid: f04bd704dbab162449981a2bdd4b7ad6
+  m_configObjects: {}
